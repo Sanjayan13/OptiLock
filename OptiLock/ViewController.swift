@@ -14,9 +14,9 @@ class ViewController: UIViewController {
 
     
     @IBOutlet weak var unlockui: UIImageView!
-    @IBOutlet weak var lockui: UIImageView!
     @IBOutlet weak var unlocktext: UILabel!
     @IBOutlet weak var locktext: UILabel!
+    @IBOutlet weak var lockui: UIImageView!
     @IBOutlet weak var auth1: UILabel!
     @IBOutlet weak var auth2: UILabel!
     

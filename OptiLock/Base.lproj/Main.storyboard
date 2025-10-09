@@ -67,8 +67,8 @@
                                                 <color key="textColor" systemColor="scrollViewTexturedBackgroundColor"/>
                                                 <color key="highlightedColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tap to Lock" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q1S-f5-2i2">
-                                                <rect key="frame" x="144.33333333333334" y="168" width="88" height="21"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Tap to Lock." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q1S-f5-2i2">
+                                                <rect key="frame" x="144.33333333333334" y="168" width="93" height="21"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <color key="textColor" systemColor="scrollViewTexturedBackgroundColor"/>
@@ -109,9 +109,9 @@
                     <connections>
                         <outlet property="auth1" destination="NYv-jm-Pfv" id="Hzw-cv-ojD"/>
                         <outlet property="auth2" destination="UGD-g0-tHq" id="IzA-kp-GCo"/>
-                        <outlet property="locktext" destination="UGD-g0-tHq" id="3Fa-PC-AWc"/>
+                        <outlet property="locktext" destination="Q1S-f5-2i2" id="7H6-0T-YHd"/>
                         <outlet property="lockui" destination="vbe-dK-VgG" id="2HE-Yt-1Xa"/>
-                        <outlet property="unlocktext" destination="NYv-jm-Pfv" id="ZuT-nL-hAP"/>
+                        <outlet property="unlocktext" destination="6jj-ag-wfh" id="ZRk-Lq-tyo"/>
                         <outlet property="unlockui" destination="dAN-1b-a9u" id="OyU-za-UU4"/>
                     </connections>
                 </viewController>
