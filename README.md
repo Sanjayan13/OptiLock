@@ -1,6 +1,12 @@
-# OptiLock 🔐
+![Image](https://github.com/user-attachments/assets/6f150499-1ba9-48d9-a6f5-2e15927ec830)
 
-**Face ID powered smart lock system for iOS with ESP32 integration**
+<p align="center">
+  <img src="Assets/badge-swift.svg" height="28">
+  <img src="Assets/badge-esp32.svg" height="28">
+  <img src="Assets/badge-iot.svg" height="28">
+</p>
+
+
 
 OptiLock is a full-stack smart lock prototype that connects iOS Face ID authentication to an ESP32-controlled locking mechanism. This project demonstrates secure device control, embedded systems knowledge, automation logic, and polished mobile UX. Built as a practical engineering prototype showcasing Computer Engineering skillsets across software, networking, and hardware.
 
