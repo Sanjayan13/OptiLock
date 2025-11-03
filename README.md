@@ -26,14 +26,11 @@ OptiLock is a full-stack smart lock prototype that connects iOS Face ID authenti
 Full Demo: https://www.linkedin.com/posts/sanjayansarmenthiran_after-weeks-of-learning-prototyping-and-activity-7390930797953847296-zTSj
 
 
-App UI: https://github.com/Sanjayan13/OptiLock/blob/main/AppUi.PNG
+![Image](https://github.com/user-attachments/assets/01b7c361-bae7-4403-b208-0c7885b441ab)
 
+![Image](https://github.com/user-attachments/assets/d521e920-f096-49c5-b85d-4ea4b01dbb3f)
 
-Top View of Box: https://github.com/Sanjayan13/OptiLock/blob/main/FrontView.heic
-
-
-Internal View: https://github.com/Sanjayan13/OptiLock/blob/main/InternalView.heic
-
+<img width="590" height="1278" alt="Image" src="https://github.com/user-attachments/assets/2ce6e46a-5191-46fa-a095-c7a55836cdaa" />
 
 ---
 
