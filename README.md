@@ -23,14 +23,22 @@ OptiLock is a full-stack smart lock prototype that connects iOS Face ID authenti
 
 ## 📷 Demo Media
 
-Full Demo: https://www.linkedin.com/posts/sanjayansarmenthiran_after-weeks-of-learning-prototyping-and-activity-7390930797953847296-zTSj
-
+[![OptiLock Demo](https://github.com/Sanjayan13/OptiLock/raw/main/Assets/OptiLockThumbnail.jpeg)](https://github.com/Sanjayan13/OptiLock/raw/main/Assets/OptilockDemoVideoGit.mp4)
+<p align="center"><b>Full OptiLock Demo Video</b></p>
 
 ![Image](https://github.com/user-attachments/assets/01b7c361-bae7-4403-b208-0c7885b441ab)
+<p align="center"><b>Top View of OptiLock Mechanism</b></p>
 
 ![Image](https://github.com/user-attachments/assets/d521e920-f096-49c5-b85d-4ea4b01dbb3f)
+<p align="center"><b>Interior View of OptiLock Mechanism</b></p>
 
-<img width="590" height="1278" alt="Image" src="https://github.com/user-attachments/assets/2ce6e46a-5191-46fa-a095-c7a55836cdaa" />
+<img width="1042" height="893" alt="Image" src="https://github.com/user-attachments/assets/30cd3fea-226c-44f4-887c-c5644a0fc455" />
+<p align="center"><b>Wiring Diagram</b></p>
+
+<p align="center">
+  <img width="590" height="1278" alt="Image" src="https://github.com/user-attachments/assets/2ce6e46a-5191-46fa-a095-c7a55836cdaa" />
+</p>
+<p align="center"><b>OptiLock Mobile App UI</b></p>
 
 ---
 
